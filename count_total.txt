@@ -1,0 +1,3 @@
+Total line :5 
+ Total Number of word : 47 
+ Total Number of character : 241

@@ -1,0 +1,5 @@
+print("addition", 2+3)
+print("subtruction",4-5)
+print("Multiplication",4*5)
+print("power",4**5)
+print(((1+3)*(9-2)/2)**2)
